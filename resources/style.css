@@ -1,5 +1,49 @@
 /* css doc */
 
 html {
-    
+    font-family: Verdana, sans-serif;
+    color: white;
+    background-color: black;
+    align-content : center;
+    text-align: center;
+    font-size: 16px;
+}
+
+
+.title #top-line {
+	font-size: 3.125rem;
+	font-weight: 300;
+}
+
+.title #link {
+	color: Aquamarine;
+}
+
+.guide #top-line {
+	font-size: 2.625rem;
+	color : white ;
+}
+
+.guide {
+	font-size: 1.3125rem;
+	color: gray;
+}
+
+.guide img {
+	margin-bottom: 15px;
+}
+
+.soon {
+	font-size: 2.625rem;
+}
+
+.soon #link {
+	font-size: 1rem;
+	color: Aquamarine;
+}
+
+footer {
+	text-align: right;
+	color: gray;
+	margin-right: 10px;
 }
